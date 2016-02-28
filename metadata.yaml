@@ -1,0 +1,24 @@
+_repo: The-Radio-Amateur-s-Hand-Book-A-Complete-Authentic-and-Informative-Work-on-Wireless-Telegraphy__6935
+creator:
+  author:
+    agent_name: Collins, A. Frederick (Archie Frederick)
+    alias: Collins, Archie Frederick
+    birthdate: 1869
+    gutenberg_agent_id: '2266'
+    url: http://www.gutenberg.org/2009/agents/2266
+description: ''
+gutenberg_issued: '2004-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TK'
+- !lcsh 'Radio'
+- !lcsh 'Telegraph, Wireless'
+title: "The Radio Amateur's Hand Book\r\nA Complete, Authentic and Informative Work\
+  \ on Wireless Telegraphy and Telephony"
+url: http://www.gutenberg.org/ebooks/6935
